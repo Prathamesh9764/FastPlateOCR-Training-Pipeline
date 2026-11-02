@@ -105,3 +105,10 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+
+
+vahan_splits
+daheri_splits
+daheri_labels.csv
+vahan_labels.csv
